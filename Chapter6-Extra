@@ -10,18 +10,18 @@
          "volume":"2",
          "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/QDPSFDS/"},
          "last_updated":"1644489093"
-      },
-      "7": {
-         "title":"Awkward smile",
-         "volume":"7",
-         "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/6njiZNI/"},
+    },
+    "7": {
+      "title": "Awkward smile",
+      "volume": "2",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/6njiZNI/"},
          "last_updated":"1644557493"
-   },
+      },
 	  "8": {
       "title": "Charming features",
-      "volume": "1",
-      "groups": { "Fattyloveranon": "/proxy/api/imgur/chapter/Cfj2s6N/"
+      "volume": "2",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/Cfj2s6N/"
       "last_updated":"1644557493"
-    },
+    }
    }
 }
